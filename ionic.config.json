@@ -1,0 +1,7 @@
+{
+  "name": "vue-videojs-record",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
